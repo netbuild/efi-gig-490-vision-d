@@ -422,24 +422,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>itlwm.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/itlwm</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>USBInjectAll.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1208,9 +1190,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string><!-- PUT YOUR OWN SERIAL --></string>
+			<string><!-- YOUR OWN SERIAL NUMBER --></string>
 			<key>SystemUUID</key>
-			<string><!-- PUT YOUR OWN UUID --></string>
+			<string><!-- YOUR OWN SystemUUID NUMBER --></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1229,9 +1211,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string><!-- PUT YOUR OWN SERIAL --></string>
+			<string><!-- YOUR OWN SERIAL NUMBER --></string>
 			<key>SystemUUID</key>
-			<string><!-- PUT YOUR OWN UUID --></string>
+			<string><!-- YOUR OWN SystemUUID NUMBER --></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
