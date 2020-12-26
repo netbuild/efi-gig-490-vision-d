@@ -1208,9 +1208,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CX07M046M</string>
+			<string><!-- PUT YOUR OWN SERIAL --></string>
 			<key>SystemUUID</key>
-			<string>78DF3C2C-E751-4F1B-B286-B1025C7A4D6D</string>
+			<string><!-- PUT YOUR OWN UUID --></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1229,9 +1229,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CX07M046M</string>
+			<string><!-- PUT YOUR OWN SERIAL --></string>
 			<key>SystemUUID</key>
-			<string>78DF3C2C-E751-4F1B-B286-B1025C7A4D6D</string>
+			<string><!-- PUT YOUR OWN UUID --></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
