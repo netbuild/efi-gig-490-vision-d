@@ -13,6 +13,10 @@ EFI bootloader for the Gigabyte MainBoard Z490 Vision D with Intel® Z490 chipse
 - be quiet! Pure Loop 360
 - be quiet! Dark Power Pro 11 650v2
 
+#### Current Bootloader
+
+OpenCore 0.6.5 nightly
+
 #### These things are already working:
 
 - Runs stable
