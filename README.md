@@ -29,3 +29,6 @@ EFI bootloader for the Gigabyte MainBoard Z490 Vision D with Intel® Z490 chipse
 - AirDrop (Partially)
 - Sidecar (Partially)
 - Problem with DRM content in Safari (Netflix/Amazon)
+
+# Over my mac
+![Over my mac](Images/Screenshot%202020-12-28-1.png)
