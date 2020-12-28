@@ -2,7 +2,7 @@
 
 EFI bootloader for the Gigabyte MainBoard Z490 Vision D with Intel® Z490 chipset. The goal of the project is to achieve the highest possible compatibility to the original Macintosh. This EFI is intended for use with MacOS Big Sur 11.1, but can also be used with MacOS Catalina without any problems. 
 
-## The development of this EFI takes place under the following hardware:
+## The development of this EFI takes place under the following hardware
 
 - Gigabyte Z490 Vision D
 - MSI ATI RX 5700 XT Gaming X
