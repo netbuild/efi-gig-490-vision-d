@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#WARNING - 1</key>
-	<string>This is just a sample. Do NOT try loading it.</string>
-	<key>#WARNING - 2</key>
-	<string>Ensure you understand EVERY field before booting.</string>
-	<key>#WARNING - 3</key>
-	<string>In most cases recommended to use Sample.plist</string>
-	<key>#WARNING - 4</key>
-	<string>Use SampleCustom.plist only for special cases.</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -263,6 +255,8 @@
 				<string>VGA compatible controller</string>
 				<key>model</key>
 				<string>Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]</string>
+				<key>shikigva</key>
+				<integer>80</integer>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
@@ -1004,7 +998,7 @@
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>6</integer>
+			<integer>3</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
@@ -1101,7 +1095,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>/w8AAA==</data>
+				<data>ZwAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data></data>
 			</dict>
@@ -1168,9 +1162,9 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-AF89B6D9451A490B</string>
+			<string></string>
 			<key>BoardRevision</key>
-			<data>AQ==</data>
+			<data>CQ==</data>
 			<key>DevicePathsSupported</key>
 			<integer>0</integer>
 			<key>FSBFrequency</key>
@@ -1182,38 +1176,38 @@
 			<key>SmcBranch</key>
 			<data></data>
 			<key>SmcPlatform</key>
-			<data>ajE4NWYAAAA=</data>
+			<data></data>
 			<key>SmcRevision</key>
 			<data></data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>iMac20,2</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string><!-- YOUR OWN SERIAL NUMBER --></string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string><!-- YOUR OWN SystemUUID NUMBER --></string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02026405QX00001M</string>
+			<string></string>
 			<key>ProcessorType</key>
-			<integer>4105</integer>
+			<integer>3841</integer>
 			<key>ROM</key>
-			<data>Viytek1t</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac20,2</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string><!-- YOUR OWN SERIAL NUMBER --></string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string><!-- YOUR OWN SystemUUID NUMBER --></string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1246,11 +1240,11 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
-			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
@@ -1356,8 +1350,6 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
-			<key>DeduplicateBootOrder</key>
-			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
