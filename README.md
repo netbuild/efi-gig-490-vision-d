@@ -19,20 +19,21 @@ OpenCore 0.6.5 nightly
 
 #### These things are already working:
 
-- Runs stable
-- Intel WLAN
-- Intel network cards
-- Bluetooth
-- Thunderbolt
-- Change boot volume
-- USB 2.0, 3.0, 3.1
+- [x] Runs stable
+- [x] Intel WLAN
+- [x] Intel network cards
+- [x] Bluetooth
+- [x] Thunderbolt
+- [x] Change boot volume
+- [x] USB 2.0, 3.0, 3.1
+- [x] Playing DRM Content in Netflix/Amazon
+- [x] AppleTV+
 
 #### What still doesn't work or doesn't work correctly
 
-- Handsoff (Partial)
-- AirDrop (Partially)
-- Sidecar (Partially)
-- Problem with DRM content in Safari (Netflix/Amazon)
+- [ ] Handsoff (Partial)
+- [ ] AirDrop (Partially)
+- [ ] Sidecar (Partially)
 
 ### Over my mac
-![Over my mac](Images/Screenshot%202020-12-28-1.png)
+![Over my mac](Images/over-my-mac.png)
