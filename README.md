@@ -37,3 +37,6 @@ OpenCore 0.6.5 nightly
 
 ### Over my mac
 ![Over my mac](Images/over-my-mac.png)
+
+### Bluetooth
+![Bluetooth system preferences](Images/bt.png)
