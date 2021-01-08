@@ -40,3 +40,6 @@ OpenCore 0.6.5
 
 ### Bluetooth
 ![Bluetooth system preferences](Images/working-bt.png)
+
+### Network
+![Network](Images/network.png)
