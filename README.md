@@ -15,7 +15,7 @@ EFI bootloader for the Gigabyte MainBoard Z490 Vision D with Intel® Z490 chipse
 
 #### Current Bootloader
 
-OpenCore 0.6.5 nightly
+OpenCore 0.6.5
 
 #### These things are already working:
 
@@ -28,12 +28,12 @@ OpenCore 0.6.5 nightly
 - [x] USB 2.0, 3.0, 3.1
 - [x] Playing DRM Content in Netflix/Amazon
 - [x] AppleTV+
+- [x] Handsoff
 
 #### What still doesn't work or doesn't work correctly
 
-- [ ] Handsoff (Partial)
-- [ ] AirDrop (Partially)
-- [ ] Sidecar (Partially)
+- [ ] AirDrop (Partially / Devices are displayed but do not connect)
+- [ ] Sidecar (Partially / Devices are displayed but do not connect)
 
 ### Over my mac
 ![Over my mac](Images/over-my-mac.png)
