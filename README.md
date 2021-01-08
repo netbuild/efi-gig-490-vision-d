@@ -36,4 +36,4 @@ OpenCore 0.6.5 nightly
 - [ ] Sidecar (Partially)
 
 ### Over my mac
-![Over my mac](Images/Screenshot%202020-12-28-1.png)
+![Over my mac](Images/over-my-mac.png)
