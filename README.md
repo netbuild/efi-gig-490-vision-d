@@ -34,7 +34,7 @@ OpenCore 0.6.5 nightly
 - [ ] Handsoff (Partial)
 - [ ] AirDrop (Partially)
 - [ ] Sidecar (Partially)
-- ~~[ ] Problem with DRM content in Safari (Netflix/Amazon)
+- ~~[ ]Problem with DRM content in Safari (Netflix/Amazon)
 
 ### Over my mac
 ![Over my mac](Images/Screenshot%202020-12-28-1.png)
